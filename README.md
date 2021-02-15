@@ -1,6 +1,6 @@
 #H1 AutoMoto
 
-U mojoj web aplikaciji se se radio o evidenciji između auto i moto vozila.
+U mojoj web aplikaciji se radi o evidenciji između auto i moto vozila.
 
 Za pristup uređivanju baze podataka potrebno se ulogirati. 
 
